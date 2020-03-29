@@ -1,0 +1,26 @@
+{
+  "name": "retro-calculator",
+  "version": "1.0.0",
+  "description": "Basic retro calculator",
+  "devDependencies": {
+    "cypress": "^4.0.2"
+  },
+  "scripts": {
+    "serve": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmoraleslondono/retro-calculator.git"
+  },
+  "author": {
+    "name": "Gloria Morales",
+    "email": "gmoraleslondono@gmail.com",
+    "url": "https://gmoraleslondono.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmoraleslondono/retro-calculator/issues"
+  },
+  "homepage": "https://github.com/gmoraleslondono/retro-calculator#readme"
+}

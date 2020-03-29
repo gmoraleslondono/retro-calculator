@@ -1,6 +1,6 @@
 # retro-calculator
 
-## To clone project 
+## To clone project:
 
 git clone https://github.com/gmoraleslondono/retro-calculator.git
 
@@ -12,10 +12,10 @@ git init
 
 npm i
 
-### Instaling cypress
+## To install cypress:
 npm i -D cypress
 
-## To run integration test
+## To run integration test:
 
 npx cypress open
 

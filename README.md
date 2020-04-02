@@ -3,7 +3,7 @@
 
 A collegue challenged me to build a calculator, so I started this project on [Codepen](https://codepen.io/gmoraleslondono/pen/JjdopWy) to practice JavaScript.
 When I was almost done a friend found a bug (`1 + 1 + 1 = 11`) so I quickly made some changes in order to fix it.
-I ended up moving the project to GitHub and added some end-to-end using [Cypress](https://www.cypress.io/) because after my quick fix `1 + 1 = 0`
+I ended up moving the project to GitHub and added some end-to-end using [Cypress](https://www.cypress.io/) because after my quick fix `1 + 1 = 0` 🙈
 
 ## How to Contribute
 

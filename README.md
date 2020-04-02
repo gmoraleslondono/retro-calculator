@@ -1,4 +1,4 @@
-# retro-calculator
+# Retro Calculator
 
 ## To clone project:
 

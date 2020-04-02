@@ -1,25 +1,25 @@
 # Retro Calculator
 
-## To clone project:
+A collegue challenged me to build a calculator so I started this project on [Codepen](https://codepen.io/gmoraleslondono/pen/JjdopWy) to practice JavaScript.
+When I was almost done a friend found a bug (`1 + 1 + 1 = 11`) so I quickly made some changes in order to fix it.
+I ended up moving the project to GitHub and added some end-to-end using [Cypress](https://www.cypress.io/) because after my quick fix `1 + 1 = 0`
 
+## How to Contribute
+
+Please make sure the following is done:
+
+- Clone this repository.
+
+```sh
 git clone https://github.com/gmoraleslondono/retro-calculator.git
+```
 
-cd retro-calculator
+- Run `npm install` in the repository root.
 
-code .
+- If you’ve fixed a bug or added code that should be tested, add tests!
 
-git init
+- ~Ensure the test suite passes (`npm run test`).~
 
-npm i
+- ~Format your code with prettier (`npm run prettier`).~
 
-## To install cypress:
-npm i -D cypress
-
-## To run integration test:
-
-npx cypress open
-
-### create a local sever:
-npx http-server src/
-
-open http://127.0.0.1:8080/
+- ~Make sure your code lints (`npm run lint`).~

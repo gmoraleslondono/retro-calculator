@@ -14,8 +14,6 @@ function clean() {
   operator = "";
 }
 
-//document.querySelector('.number').addEventListener('click', setValue)
-
 function setValue(number) {
   if (operator == "") {
     valueA += String(number);

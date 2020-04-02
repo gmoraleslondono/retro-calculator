@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe("basic operations", () => {
+describe("basic math operations", () => {
   beforeEach(() => {
     cy.visit("http://127.0.0.1:8080/");
   });

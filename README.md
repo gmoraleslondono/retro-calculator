@@ -28,3 +28,7 @@ git clone https://github.com/gmoraleslondono/retro-calculator.git
 - ~Format your code with prettier (`npm run prettier`).~
 
 - ~Make sure your code lints (`npm run lint`).~
+
+## Credits
+
+Made with ❤ by Gloria Morales

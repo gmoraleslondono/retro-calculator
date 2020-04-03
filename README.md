@@ -5,6 +5,10 @@ A collegue challenged me to build a calculator, so I started this project on [Co
 When I was almost done a friend found a bug (`1 + 1 + 1 = 11`) so I quickly made some changes in order to fix it.
 I ended up moving the project to GitHub and added some end-to-end using [Cypress](https://www.cypress.io/) because after my quick fix `1 + 1 = 0` 🙈
 
+## Prerequisites
+
+- Node.js
+
 ## How to Contribute
 
 Please make sure the following is done:

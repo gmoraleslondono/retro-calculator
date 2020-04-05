@@ -8,6 +8,7 @@
     "start-server-and-test": "^1.10.11"
   },
   "scripts": {
+    "test:cypress": "cypress run",
     "start": "http-server src"
   },
   "repository": {

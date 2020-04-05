@@ -29,7 +29,7 @@ git clone https://github.com/gmoraleslondono/retro-calculator.git
 
 Please make sure the following is done:
 
-- Fork the repository and create your branch from master.
+- Fork the repository and create your branch from `master`.
 
 - Run `npm install` in the repository root.
 

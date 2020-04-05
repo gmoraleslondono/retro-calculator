@@ -35,7 +35,7 @@ Please make sure the following is done:
 
 - If you’ve fixed a bug or added code that should be tested, add tests!
 
-- Ensure the test suite passes (`npm run test`).
+- Ensure the test suite passes (`npm test`).
 
 - ~Format your code with prettier (`npm run prettier`).~
 

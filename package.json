@@ -6,7 +6,6 @@
     "cypress": "^4.0.2"
   },
   "scripts": {
-    "serve": "http-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

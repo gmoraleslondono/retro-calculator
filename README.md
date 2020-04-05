@@ -21,7 +21,7 @@ git clone https://github.com/gmoraleslondono/retro-calculator.git
 
 - Run `npm install` in the repository root.
 
-- Run `npm start`
+- Run `npm start`.
 
 - Open `http://127.0.0.1:8080` 🚀
 
@@ -35,7 +35,7 @@ Please make sure the following is done:
 
 - If you’ve fixed a bug or added code that should be tested, add tests!
 
-- ~Ensure the test suite passes (`npm run test`).~
+- Ensure the test suite passes (`npm run test`).
 
 - ~Format your code with prettier (`npm run prettier`).~
 

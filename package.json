@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Basic retro calculator",
   "devDependencies": {
-    "cypress": "^4.0.2"
+    "cypress": "^4.0.2",
+    "http-server": "^0.12.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

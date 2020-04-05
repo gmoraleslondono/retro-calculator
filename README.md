@@ -7,17 +7,29 @@ I ended up moving the project to GitHub and added some end-to-end using [Cypress
 
 ## Prerequisites
 
-- Node.js
+- [Node.js 12.x or newer](https://nodejs.org/en/download/)
 
-## How to Contribute
+## Development
 
-Please make sure the following is done:
+### How to run locally
 
 - Clone this repository.
 
 ```sh
 git clone https://github.com/gmoraleslondono/retro-calculator.git
 ```
+
+- Run `npm install` in the repository root.
+
+- Run `npm start`
+
+- Open `http://127.0.0.1:8080` 🚀
+
+### How to Contribute
+
+Please make sure the following is done:
+
+- Fork the repository and create your branch from master.
 
 - Run `npm install` in the repository root.
 

@@ -9,7 +9,9 @@
   },
   "scripts": {
     "test": "start-server-and-test start http://127.0.0.1:8080/ test:cypress",
+    "test:debug": "start-server-and-test start http://127.0.0.1:8080/ test:cypress:debug",
     "test:cypress": "cypress run",
+    "test:cypress:debug": "cypress open",
     "start": "http-server src"
   },
   "repository": {

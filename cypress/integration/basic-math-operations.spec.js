@@ -40,7 +40,7 @@ describe("basic math operations", () => {
   it("should show message error if divide by zero", () => {
     cy.get(".nine").click();
     cy.get(".division").click();
-    cy.get(".Zero").click();
+    cy.get(".zero").click();
     cy.get(".equal").click();
     cy.get("#screenText").should("have.text", "Error");
   });

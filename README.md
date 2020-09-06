@@ -1,4 +1,5 @@
 # Retro Calculator
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gmoraleslondono/retro-calculator/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 A colleague challenged me to build a calculator, so I started this project on [CodePen](https://codepen.io/gmoraleslondono/pen/JjdopWy) to practice JavaScript.

@@ -1,7 +1,9 @@
-name: End-to-end tests
+name: Continuous Integration
 on: [push]
+
 jobs:
-  cypress-run:
+  cypress:
+    name: Cypress
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

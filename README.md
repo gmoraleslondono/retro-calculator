@@ -38,7 +38,7 @@ Please make sure the following is done:
 
 - Ensure the test suite passes (`npm test`).
 
-- ~Format your code with prettier (`npm run prettier`).~
+- Format your code with prettier (`npm run prettier`).
 
 - ~Make sure your code lints (`npm run lint`).~
 

@@ -2,6 +2,24 @@ name: Continuous Integration
 on: [push]
 
 jobs:
+  prettier:
+    name: Prettier
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: Download Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12"
+
+      - name: Install packages
+        run: npm install
+
+      - name: Run Prettier check
+        run: npm run prettier:check
+
   cypress:
     name: Cypress
     runs-on: ubuntu-latest

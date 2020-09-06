@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gmoraleslondono/retro-calculator/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 A colleague challenged me to build a calculator, so I started this project on [CodePen](https://codepen.io/gmoraleslondono/pen/JjdopWy) to practice JavaScript, CSS, and HTML.
-When I was almost done a friend found a bug (`1 + 1 + 1 = 11`) so I quickly made some changes to fix it. I ended up moving the project to GitHub and added some end-to-end tests using [Cypress](https://www.cypress.io/) because after my quick fix this happened `1 + 1 = 0` 🙈
+When I was almost done a friend found a bug (`1 + 1 + 1 = 11`) so I quickly made some changes to fix it. I ended up moving the project to GitHub and added some end-to-end tests using [Cypress](https://www.cypress.io/) because after my quick fix `1 + 1 = 0` 🙈
 
 ## Prerequisites
 

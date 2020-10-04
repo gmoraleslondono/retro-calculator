@@ -17,6 +17,7 @@
     "test:cypress:debug": "cypress open",
     "prettier": "prettier --write .",
     "prettier:check": "prettier --check .",
+    "eslint:check": "eslint .",
     "start": "http-server src"
   },
   "repository": {

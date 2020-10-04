@@ -20,6 +20,24 @@ jobs:
       - name: Run Prettier check
         run: npm run prettier:check
 
+  eslint:
+    name: ESLint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: Download Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12"
+
+      - name: Install packages
+        run: npm install
+
+      - name: Run ESLint check
+        run: npm run eslint:check
+
   cypress:
     name: Cypress
     runs-on: ubuntu-latest

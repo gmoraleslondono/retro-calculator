@@ -4,6 +4,7 @@
   "description": "Basic retro calculator",
   "devDependencies": {
     "cypress": "^4.0.2",
+    "eslint": "^7.10.0",
     "http-server": "^0.12.1",
     "prettier": "2.1.1",
     "start-server-and-test": "^1.10.11"

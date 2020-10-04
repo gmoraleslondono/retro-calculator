@@ -1,7 +1,6 @@
 let valueA = "";
 let valueB = "";
 let operator = "";
-let result = "";
 
 function print(text) {
   document.getElementById("screenText").innerText = text;
@@ -14,6 +13,8 @@ function clean() {
   operator = "";
 }
 
+// TODO: Remove the following line after moving the HTML example to its own folder with global config for ESLint
+// eslint-disable-next-line no-unused-vars
 function setValue(number) {
   if (operator == "") {
     valueA += String(number);
@@ -24,6 +25,8 @@ function setValue(number) {
   }
 }
 
+// TODO: Remove the following line after moving the HTML example to its own folder with global config for ESLint
+// eslint-disable-next-line no-unused-vars
 function setOperator(operation) {
   if (valueA !== "") {
     operator = operation;

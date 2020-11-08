@@ -13,6 +13,19 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "gmoraleslondono",
+      "name": "Gloria Morales",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/20589565?v=4",
+      "profile": "http://gmoraleslondono.com",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "review",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,

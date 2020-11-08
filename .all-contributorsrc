@@ -11,7 +11,13 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/3720424?v=4",
       "profile": "https://about.me/tomechval",
       "contributions": [
-        "doc"
+        "doc",
+        "bug",
+        "code",
+        "ideas",
+        "infra",
+        "projectManagement",
+        "review"
       ]
     },
     {

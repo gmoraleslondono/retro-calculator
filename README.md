@@ -67,6 +67,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-
 ## License
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgmoraleslondono%2Fretro-calculator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgmoraleslondono%2Fretro-calculator?ref=badge_large)

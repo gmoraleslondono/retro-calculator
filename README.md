@@ -40,7 +40,7 @@ Please make sure the following is done:
 
 - Format your code with prettier (`npm run prettier`).
 
-- ~Make sure your code lints (`npm run eslint`).~
+- Make sure your code lints (`npm run eslint:check`).
 
 ## Credits
 

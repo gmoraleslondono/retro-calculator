@@ -40,7 +40,7 @@ Please make sure the following is done:
 
 - Format your code with prettier (`npm run prettier`).
 
-- ~Make sure your code lints (`npm run eslint`).~
+- Make sure your code lints (`npm run eslint:check`).
 
 ## Credits
 
@@ -55,8 +55,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://about.me/tomechval"><img src="https://avatars1.githubusercontent.com/u/3720424?v=4" width="100px;" alt=""/><br /><sub><b>Tomas Echeverri Valencia</b></sub></a><br /><a href="https://github.com/gmoraleslondono/retro-calculator/commits?author=techeverri" title="Documentation">📖</a> <a href="https://github.com/gmoraleslondono/retro-calculator/issues?q=author%3Atecheverri" title="Bug reports">🐛</a> <a href="https://github.com/gmoraleslondono/retro-calculator/commits?author=techeverri" title="Code">💻</a> <a href="#ideas-techeverri" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-techeverri" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#projectManagement-techeverri" title="Project Management">📆</a> <a href="https://github.com/gmoraleslondono/retro-calculator/pulls?q=is%3Apr+reviewed-by%3Atecheverri" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="http://gmoraleslondono.com"><img src="https://avatars2.githubusercontent.com/u/20589565?v=4" width="100px;" alt=""/><br /><sub><b>Gloria Morales</b></sub></a><br /><a href="https://github.com/gmoraleslondono/retro-calculator/commits?author=gmoraleslondono" title="Code">💻</a> <a href="https://github.com/gmoraleslondono/retro-calculator/commits?author=gmoraleslondono" title="Documentation">📖</a> <a href="#design-gmoraleslondono" title="Design">🎨</a> <a href="https://github.com/gmoraleslondono/retro-calculator/pulls?q=is%3Apr+reviewed-by%3Agmoraleslondono" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/gmoraleslondono/retro-calculator/commits?author=gmoraleslondono" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://about.me/tomechval"><img src="https://avatars1.githubusercontent.com/u/3720424?v=4" width="100px;" alt=""/><br /><sub><b>Tomas Echeverri Valencia</b></sub></a><br /><a href="https://github.com/gmoraleslondono/retro-calculator/commits?author=techeverri" title="Documentation">📖</a> <a href="https://github.com/gmoraleslondono/retro-calculator/issues?q=author%3Atecheverri" title="Bug reports">🐛</a> <a href="https://github.com/gmoraleslondono/retro-calculator/commits?author=techeverri" title="Code">💻</a> <a href="#ideas-techeverri" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-techeverri" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#projectManagement-techeverri" title="Project Management">📆</a> <a href="https://github.com/gmoraleslondono/retro-calculator/pulls?q=is%3Apr+reviewed-by%3Atecheverri" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
@@ -67,6 +67,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-
 ## License
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgmoraleslondono%2Fretro-calculator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgmoraleslondono%2Fretro-calculator?ref=badge_large)

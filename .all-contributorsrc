@@ -6,6 +6,19 @@
   "commit": false,
   "contributors": [
     {
+      "login": "gmoraleslondono",
+      "name": "Gloria Morales",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/20589565?v=4",
+      "profile": "http://gmoraleslondono.com",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "review",
+        "test"
+      ]
+    },  
+    {
       "login": "techeverri",
       "name": "Tomas Echeverri Valencia",
       "avatar_url": "https://avatars1.githubusercontent.com/u/3720424?v=4",
@@ -18,19 +31,6 @@
         "infra",
         "projectManagement",
         "review"
-      ]
-    },
-    {
-      "login": "gmoraleslondono",
-      "name": "Gloria Morales",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/20589565?v=4",
-      "profile": "http://gmoraleslondono.com",
-      "contributions": [
-        "code",
-        "doc",
-        "design",
-        "review",
-        "test"
       ]
     }
   ],
